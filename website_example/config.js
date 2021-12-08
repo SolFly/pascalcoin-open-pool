@@ -1,6 +1,6 @@
-var api = "https://pool.pascalpool.org/api";
+var api = "https://fastpool.xyz/pascal";
 
-var email = "support@poolhost.com";
+var email = "fastpool.xyz@gmail.com";
 
 var blockchainExplorer = "http://explorer.pascalcoin.org/block.php?block={id}";
 var transactionExplorer = "http://explorer.pascalcoin.org/findoperation.php?ophash={id}";
