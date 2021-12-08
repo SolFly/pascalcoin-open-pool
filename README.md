@@ -22,4 +22,4 @@ Additionally, code was used from Polyminer's excellent RHMiner:
 
 ## Donations
 
-Donations are accepted at 573198-21
+Donations are accepted at 1301291-96
