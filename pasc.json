@@ -224,7 +224,7 @@
         "defaultPayment": 1,
 
         /* Minimum payment threshold */
-        "minPayment": 0.5,
+        "minPayment": 0.1,
 
         /* Maximum payment threshold */
         "maxPayment": 100,
@@ -249,7 +249,7 @@
         /* How many confirmations until balances are confirmed
          * PascalCoin network requires 100 confirms, but you can decrease
          * this if you have extra PASC / PASA in your pool wallet */
-        "depth": 20
+        "depth": 10
     },
 
     /**
@@ -266,7 +266,7 @@
         "devFee": 0,
 
         /* Network fee in PASC, do not change this */
-        "networkFee": 5.0000
+        "networkFee": 2.5000
     },
 
     /**
